@@ -19,3 +19,5 @@ with open("data/state_gdp_analysis.csv", "r") as infile:
 
 
 # get lowest gdp for 2020 using "get_lowest_gdp(list_data, '2020')"
+
+#added stuffssss
